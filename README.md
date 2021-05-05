@@ -1,4 +1,4 @@
-# Gradient-Descent-
+# Gradient-Descent
 【输入】  
 * 变量：$x$, $y$, $t$(步长)
 * 目标函数：$x^2+3y^2$
